@@ -1,0 +1,41 @@
+head{
+	display:block;
+	margin-top:10px;
+	color:Navy;
+}
+usn{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:red;
+}
+name{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:green;
+}
+college{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:red;
+}
+branch{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:green;
+}
+year{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:red;
+}
+email{
+	display:block;
+	margin-left:20px;
+	font-size:14px;
+	color:green;
+}
