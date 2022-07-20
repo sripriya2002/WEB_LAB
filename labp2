@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+table,tr,td { border:solid black; width:335; text-align:center; border-collapse:collapse;  }
+table { margin:auto; }
+</style>
+<script type="text/javascript">
+document.write("<table><tr><td>number</td><td>square</td><td>cube</td></tr>");
+for(var n=1;n<=10;n++) {
+	document.write("<tr><td>"+n+"</td><td>"+n*n+"</td><td>"+n*n*n+"</td></tr>");
+}
+document.write("</table>");
+</script>
+</head>
+</html>
